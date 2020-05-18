@@ -1,0 +1,6 @@
+
+data/tmp/coinbase.csv
+data/tmp/coinbase_data.hdf5
+data/tmp/coinbase_day.hdf5
+data/tmp/coinbase_hour.hdf5
+data/tmp/coinbase_minute.hdf5
